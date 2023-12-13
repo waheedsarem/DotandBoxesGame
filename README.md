@@ -1,9 +1,7 @@
 DOT AND BOXES GAME<br>
 <br>
-created by:<br>
 Sarem Waheed 23L-0885<br>
 Hamza Iqbal 23L-0848<br>
-<br>
 <br>
 <br>
 HOW TO SETUP PROJECT! <br>
