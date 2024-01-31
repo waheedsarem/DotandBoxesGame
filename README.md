@@ -3,7 +3,7 @@ DOT & BOXES GAME<br>
 BY: Sarem Waheed<br>
 <br>
 <br>
-HOW TO SETUP PROJECT! <br>
+HOW TO SETUP PROJECT: <br>
 1st file attached is a Zip file named "Executable File" this zip contains exe file and can run the game.<br>
 To use this file:<br>
 1. Download the zip file <br>
