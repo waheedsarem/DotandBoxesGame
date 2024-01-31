@@ -4,7 +4,7 @@ BY: Sarem Waheed<br>
 <br>
 <br>
 HOW TO SETUP PROJECT! <br>
-First file attached is a Zip file named "Executable File" this zip contains exe file and can run the game.<br>
+1st file attached is a Zip file named "Executable File" this zip contains exe file and can run the game.<br>
 To use this file:<br>
 1. Download the zip file <br>
 2. Unzip the file <br>
@@ -14,7 +14,7 @@ To use this file:<br>
 <br>
 <br>
 
-Second file attached is a Zip file named "Full Project Zip File" this zip contains full visual studio project .sln file.<br>
+2nd file attached is a Zip file named "Full Project Zip File" this zip contains full visual studio project .sln file.<br>
 To use this file:<br>
 1. Download the zip file <br>
 2. Unzip the file <br>
@@ -25,4 +25,4 @@ To use this file:<br>
 ![image](https://github.com/waheedsarem/DotandBoxesGame/assets/153753764/12992e3c-e551-4f49-b2cd-06fc67f1a0f6)
 6. This opens our project now just press debug/release to run the game <br>
 
-Third file is a cpp file that contains the main code for the game.<br>
+3rd file is a .cpp file that contains the main code for the game.<br>
