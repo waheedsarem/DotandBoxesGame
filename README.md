@@ -1,7 +1,6 @@
 DOT & BOXES GAME<br>
 <br>
-Sarem Waheed 23L-0885<br>
-Mohammad Hamza Iqbal 23L-0848<br>
+BY: Sarem Waheed<br>
 <br>
 <br>
 HOW TO SETUP PROJECT! <br>
