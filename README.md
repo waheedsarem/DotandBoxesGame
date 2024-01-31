@@ -14,7 +14,7 @@ To use this file:<br>
 <br>
 <br>
 
-Second file attached is a Zip file named "" this zip contains exe file and contains the orignal cpp file and code.<br>
+Second file attached is a Zip file named "Full Project Zip File" this zip contains full visual studio project .sln file.<br>
 To use this file:<br>
 1. Download the zip file <br>
 2. Unzip the file <br>
