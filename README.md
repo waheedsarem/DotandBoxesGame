@@ -1,28 +1,26 @@
-DOT & BOXES GAME<br>
-<br>
-BY: Sarem Waheed<br>
-<br>
-<br>
-HOW TO SETUP PROJECT: <br>
-1st file attached is a Zip file named "Executable File" this zip contains exe file and can run the game.<br>
-To use this file:<br>
-1. Download the zip file <br>
-2. Unzip the file <br>
-![image](https://github.com/waheedsarem/DotandBoxesGame/assets/153753764/8c195888-a4e8-454c-84db-8ec3f3af37cc)
-3. Double Click the exe file named "PF- Project.exe" to play the game and ENJOY!<br>
-![image](https://github.com/waheedsarem/DotandBoxesGame/assets/153753764/538db79f-a4dd-42fe-bcf2-66a5293ae476)
-<br>
-<br>
+# Dots and Boxes
 
-2nd file attached is a Zip file named "Full Project Zip File" this zip contains full visual studio project .sln file.<br>
-To use this file:<br>
-1. Download the zip file <br>
-2. Unzip the file <br>
-![image](https://github.com/waheedsarem/DotandBoxesGame/assets/153753764/1893162a-74fc-46da-b3ee-c83975652439)
-4. Open the unzipped file <br>
-5. Open file "PF- Project" then open file the sln file named "PF- Project.sln" <br>
-![image](https://github.com/waheedsarem/DotandBoxesGame/assets/153753764/3ba356d7-aeb3-4192-b8c9-f2992e957a00)
-![image](https://github.com/waheedsarem/DotandBoxesGame/assets/153753764/12992e3c-e551-4f49-b2cd-06fc67f1a0f6)
-6. This opens our project now just press debug/release to run the game <br>
+## Overview
+This is a graphical implementation of the classic Dots and Boxes game, developed in C++ using the **SFML** library. The game allows two players to compete by connecting dots on a grid to form boxes. The player who completes the most boxes wins!
 
-3rd file is a .cpp file that contains the main code for the game.<br>
+## Features
+- **Interactive gameplay**: Players take turns to draw lines and complete boxes.
+- **Graphical interface**: Powered by **SFML**, providing a visually appealing experience.
+- **Scoring system**: Tracks scores in real-time to determine the winner.
+
+## Repository Contents
+- **`Executable File.zip`**: Ready-to-run version of the game for quick access. Unzip the file and double-click `PF- Project.exe` to start the game.
+- **`Game Code.cpp`**: The primary source code file for the game logic and SFML integration.
+- **`Full Project Zip File.zip`**: Contains full Visual Studio project folder. Unzip the file and open `PF- Project.sln` to open Visual Studio. This skips the need to set up SFML by yourself on a project file.
+
+## Requirements
+- Needs Visual Studio 2022 or higher to open `PF- Project.sln`.
+- No additional software needed for executable files.
+
+## Controls
+- Players take turns drawing a line between two adjacent dots by left clicking with a mouse in the space between them.
+- When all four sides of a box are filled, the player earns a point and an additional turn.
+- The game ends when all possible lines are drawn.
+- The player with the most completed boxes wins.
+
+Enjoy the game and happy coding!
