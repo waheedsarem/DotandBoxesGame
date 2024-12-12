@@ -26,4 +26,5 @@ This is a graphical implementation of the classic Dots and Boxes game, developed
 - The game ends when all possible lines are drawn.
 - The player with the most completed boxes wins.
 
+
 Enjoy the game and happy coding!
