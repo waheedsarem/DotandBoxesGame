@@ -9,9 +9,12 @@ This is a graphical implementation of the classic Dots and Boxes game, developed
 - **Scoring system**: Tracks scores in real-time to determine the winner.
 
 ## Repository Contents
-- **`Executable File.zip`**: Ready-to-run version of the game for quick access. Unzip the file and double-click `PF- Project.exe` to start the game.
-- **`Game Code.cpp`**: The primary source code file for the game logic and SFML integration.
-- **`Full Project Zip File.zip`**: Contains full Visual Studio project folder. Unzip the file and open `PF- Project.sln` to open Visual Studio. This skips the need to set up SFML by yourself on a project file.
+1. **`Executable File.zip`**
+    - Ready-to-run version of the game for quick access. Unzip the file and double-click `PF- Project.exe` to start the game.
+2. **`Game Code.cpp`**
+    - The primary source code file for the game logic and SFML integration.
+3. **`Full Project Zip File.zip`**
+    - Contains full Visual Studio project folder. Unzip the file and open `PF- Project.sln` to open Visual Studio. This skips the need to set up SFML by yourself on a project file.
 
 ## Requirements
 - Needs Visual Studio 2022 or higher to open `PF- Project.sln`.
